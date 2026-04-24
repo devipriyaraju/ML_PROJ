@@ -25,7 +25,7 @@ Lunch type
 Test preparation course
 Reading score
 Writing score
-🔍 Exploratory Data Analysis (EDA)
+🔍 Exploratory Data Analysis (EDA):
 
 The EDA notebook (EDA.ipynb) focuses on:
 
